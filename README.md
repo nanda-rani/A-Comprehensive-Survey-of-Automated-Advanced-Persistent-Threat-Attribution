@@ -3,10 +3,6 @@
 The details about the collected data and analysis will be released afte the acceptance of the paper.
 
 **Current status:** Under Review
+
 [Citation:]
-@article{rani2024comprehensive,
-  title={A comprehensive survey of advanced persistent threat attribution: Taxonomy, methods, challenges and open research problems},
-  author={Rani, Nanda and Saha, Bikash and Shukla, Sandeep Kumar},
-  journal={arXiv preprint arXiv:2409.11415},
-  year={2024}
-}
+Rani, N., Saha, B., & Shukla, S. K. (2024). A comprehensive survey of advanced persistent threat attribution: Taxonomy, methods, challenges and open research problems. arXiv preprint arXiv:2409.11415.
