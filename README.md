@@ -1,6 +1,5 @@
 # A-Comprehensive-Survey-of-Automated-Advanced-Persistent-Threat-Attribution
 
-The details about the collected data and analysis will be released afte the acceptance of the paper.
 
 **Current status:** Accepted at Journal of Information Security and Applications (JISA).
 
